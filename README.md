@@ -1,16 +1,11 @@
-### Hi there 👋
+```sh
+ )   ___                    )   ___                          
+(__/_____)    /) /)        (__/_____)     /) /)      /)      
+  /       ___// (/_          /        _  // // _   _(/ _____ 
+ /       (_)(/_/_) (_/_     /       _(/_(/_(/_(_(_(_(_(_)/ (_
+(______)          .-/      (______)                          
+                 (_/                                         
+```
 
-<!--
-**ccellado/ccellado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Nix" width="32px" src="https://avatars0.githubusercontent.com/u/487568?s=200&v=4" />]()
+[<img align="left" alt="Scala" width="32px" src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/scala-icon.png" />]()
